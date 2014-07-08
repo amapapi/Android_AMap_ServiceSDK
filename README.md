@@ -1,6 +1,9 @@
 Android_AMap_ServiceSDK
 =======================
-
+<br /><h2>前述：</h2> 
+- [高德官方网站申请key](http://id.amap.com/?ref=http%3A%2F%2Fapi.amap.com%2Fkey%2F).
+- 阅读[参考手册](http://api.amap.com/Public/reference/Android%20API%20v2/).
+- 如果有任何疑问也可以发问题到[官方论坛](http://bbs.amap.com/forum.php?gid=1).
 高德搜索服务SDK介绍
 <br /><h2> 简介：</h2>
 <br /> Android搜索服务SDK 是实现了关键字搜索、周边查询、团购优惠查询、公交线路查询与规划、步行和驾车路径规划以及坐标\地址查询的功能。
